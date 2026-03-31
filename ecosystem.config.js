@@ -23,6 +23,7 @@ module.exports = {
       script : "java -jar enrollment-service/target/Enrollment-Service-1.0.0.jar",
       log_file: "./logs/enrollment-service.log",
       instances: 1
+
     }
   ]
 }
